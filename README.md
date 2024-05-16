@@ -2,6 +2,9 @@
 
 ### What is this?
 This is an experimental branch of Blooket Cheats that use a custom compiler and runtime to get around Blooket's CSP eval block but with a gui
+Not stylish GUI :( but everything works 
+
+
 
 ### What's the benefits?
 * No more manually updating cheats!
