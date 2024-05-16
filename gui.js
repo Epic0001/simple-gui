@@ -453,7 +453,7 @@ window.runCheatt = function() {
 const blookScriptGUI = document.createElement('div');
 blookScriptGUI.id = 'blookScriptGUI';
 blookScriptGUI.innerHTML = `
-    <div id="blookScriptHeader">Blook Script GUI</div>
+    <div id="blookScriptHeader">Blooket Script GUI by epic0001 Cheat by 05konz</div>
     <div id="blookScriptContent">
         <label for="options">Select an option:</label><br>
         <select id="options">
@@ -545,7 +545,6 @@ blookScriptGUI.innerHTML = `
 <option value="workshop/setToysPerQ">Set Toys Per Question - Workshop</option>
 <option value="workshop/swapToys">Swap Toys - Workshop</option>
 
-            <!-- Add more options here -->
         </select><br>
         <button onclick="runCheatt()">Run Cheat</button>
      
